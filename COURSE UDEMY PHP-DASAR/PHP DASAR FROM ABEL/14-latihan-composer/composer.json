@@ -1,0 +1,15 @@
+{
+    "name": "abelyoshuara/belajar-composer",
+    "description": "Hanya untuk latihan composer saja",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Abel Yoshuara",
+            "email": "abelyoshuara@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}

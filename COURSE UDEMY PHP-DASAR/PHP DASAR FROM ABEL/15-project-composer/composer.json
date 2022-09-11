@@ -1,0 +1,14 @@
+{
+    "name": "abelyoshuara/belajar-php",
+    "description": "belajar php dasar",
+    "authors": [
+        {
+            "name": "Abel Yoshuara",
+            "email": "abelyoshuara@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+    	"server": "php -S localhost:8080"
+    }
+}
