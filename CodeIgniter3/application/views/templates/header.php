@@ -7,4 +7,5 @@
   <title>Codeigniter Tutorial</title>
 </head>
   <body>
-    <h1><?= $title; ?></h1> //$title merupakan key value dari array $data
+    <h1><?= $title; ?></h1> 
+    <!-- $title merupakan key value dari array $data -->
